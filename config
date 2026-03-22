@@ -43,6 +43,7 @@ clipboard-paste-bracketed-safe = true
 
 # --- Shell Integration ---
 shell-integration = zsh
+command = /bin/zsh -l
 
 # --- Claude 专属优化 ---
 # initial-command = /opt/homebrew/bin/claude   # 装好claude-code后再取消注释
